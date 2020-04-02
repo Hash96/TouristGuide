@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E6F12B2B"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/button_one"
+        android:layout_width="320dp"
+        android:layout_height="415dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="70dp"
+        android:background="#8DC4957C"
+        android:text="@string/welcome_to_travel_guide"
+        android:textColor="#470A0A"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="45dp"
+        tools:layout_editor_absoluteY="159dp" />
+</RelativeLayout>

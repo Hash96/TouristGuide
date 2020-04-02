@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="europe">Europe</string>
+    <string name="north_america">North America</string>
+    <string name="asia_australia"><![CDATA[Asia & Australia]]></string>
+    <string name="central_south_america"><![CDATA[Central & South America]]></string>
+    <string name="middle_east_affrica"><![CDATA[Middle East & Affrica]]></string>
+    <string name="welcome_to_travel_guide">Welcome To Travel Guide</string>
+</resources>
